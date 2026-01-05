@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Histoire du Niger IV</string>
+    <string name="titre">Histoire du Niger</string>
+    <string name="soustitre">Découvert les 8 régions du Niger</string>
+    <string name="drapeau_du_niger">drapeau du Niger</string>
+    <string name="table_histoire"> Histoire</string>
+    <string name="table_regions"> Régions</string>
+    <string name="table_culture"> Cultures</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="culture">
+        <![CDATA[
+        <h1>Artisanat au Niger</h1>
+        <p>Mosaïque de peuples, le Niger offre beaucoup de variantes dans son artisanat. On trouve principalement des réalisations en cuir de chèvre, zébu ou chameau, et des créations à base de métaux. C\'est surtout au Sahel qu\'on travaille le cuir ; on réalise des sandales, poufs, coussins, porte-gri gri, sacs et boîtes.</p>
+
+        <p>Le bronze est utilisé dans la fabrication des figurines. L\'argent sert pour les bijoux (les célèbres croix du désert et les bracelets), l\'aluminium à la fabrication d\'ustensiles de cuisine. Sans oublier les réalisations en vannerie.</p>
+
+        <p>Niamey concentre à peu près tous les styles de ce qui se fait au Niger. Dans les autres villes, il existe souvent des centres artisanaux.</p>
+
+        <p>Parfois, boutiques ou marchands ambulants proposent des fossiles ou des pointes de flèches récupérées dans le désert. Ce n\'est pas de l\'artisanat, mais une certaine forme de pillage !</p>
+
+        <h1>Musique et danse</h1>
+        <p>Le Niger possède une riche tradition musicale avec des instruments comme le molo (luth), le gouroumi (tambour) et l\'algaita (hautbois). Les danses traditionnelles varient selon les ethnies.</p>
+
+        <h2>Principales danses :</h2>
+        <ul>
+            <li>Takamba (peuple Songhaï)</li>
+            <li>Griot (peuple Haoussa)</li>
+            <li>Tende (peuple Touareg)</li>
+            <li>Bitti (peuple Zarma)</li>
+        </ul>
+        ]]>
+    </string>
+
+
+</resources>
